@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Wildan Maulana",
